@@ -1,6 +1,6 @@
 (defproject combinatorica "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Faster implementation of combinatorial computation compatible with math.combinatorics"
+  :url "https://github.com/athos/combinatorica"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]]
